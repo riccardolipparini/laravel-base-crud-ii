@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: #4eaa6b;
+}
+
+body h1,
+body h4,
+body h2 {
+  color: white;
+}
+
+body a {
+  color: white;
+}
+
